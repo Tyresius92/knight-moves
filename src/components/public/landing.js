@@ -20,7 +20,7 @@ class Landing extends React.Component {
               <div>
                 <h1 className="display-4">Knight Moves Cafe</h1>
                 <p className="lead">
-                  Thousands of Games | Two Cafes | One Community
+                  Thousands of Games | One Community
                 </p>
               </div>
               <Button
